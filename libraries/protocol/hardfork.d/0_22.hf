@@ -28,6 +28,7 @@ inline static const std::set< std::string >& get_hive_accounts()
     "roelandp",
     "steempress",
     "darthknight",
+    "netuoso"
    };
 
    return hive_accounts;
